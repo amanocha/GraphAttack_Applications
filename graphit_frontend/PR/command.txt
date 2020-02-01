@@ -1,0 +1,1 @@
+python graphitc.py -a ../../test/input_with_schedules/pagerank_delta.gt -f ../../test/input_with_schedules/pagerank_delta_sparse_push_parallel.gt -o test.cpp

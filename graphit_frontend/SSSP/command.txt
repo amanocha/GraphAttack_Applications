@@ -1,0 +1,1 @@
+python graphitc.py -a ../../test/input_with_schedules/sssp.gt -f ../../test/input_with_schedules/sssp_push_parallel_cas.gt -o test.cpp

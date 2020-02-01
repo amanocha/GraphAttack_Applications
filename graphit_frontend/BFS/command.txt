@@ -1,0 +1,1 @@
+python graphitc.py -a bfs.gt -f bfs_push_parallel_cas.gt -o test.cpp
