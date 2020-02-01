@@ -12,7 +12,7 @@ The DECADES compiler, [DEC++](https://github.com/PrincetonUniversity/DecadesComp
 **Elementwise Sparse-Dense (EWSD)**: Multiplication between a sparse and a dense matrix. \
 **Bipartite Graph Projections (GP)**: Relate nodes in one partition based on common neighbors in the other.
 
-### Vertex-programmable (VP) graph processing primitives:
+##### Vertex-programmable (VP) graph processing primitives:
 
 **Breadth-First Search (BFS)**: Determine the distance (number of node hops) to all nodes. \
 **Single-Source Shortest Paths (SSSP)**: Determine the shortest distance (sum of path edge weights) to all nodes. \
