@@ -1,11 +1,11 @@
 # GraphAttack Applications
 
 This repository contains 3 main directories:
-1. **applications**: C++ benchmarks used to evaluate FAST-LLAMAs
+1. **applications**: C++ benchmarks used to evaluate GraphAttack
 2. **graphit_frontend**: frontend files from [GraphIt](https://graphit-lang.org/)
 3. **utils**: vertex programmable application common files and dataset conversion scripts to generate binary files
 
-The DECADES compiler, [DEC++](https://github.com/PrincetonUniversity/DecadesCompiler), was use to compile these applications. This compiler is coupled with the DECADES simulator, [MosaicSim](https://github.com/PrincetonUniversity/MosaicSim), which was used to evaluate FAST-LLAMAs by providing performance estimates.
+The DECADES compiler, [DEC++](https://github.com/PrincetonUniversity/DecadesCompiler), was use to compile these applications. This compiler is coupled with the DECADES simulator, [MosaicSim](https://github.com/PrincetonUniversity/MosaicSim), which was used to evaluate GraphAttack by providing performance estimates.
 
 ## Applications
 
