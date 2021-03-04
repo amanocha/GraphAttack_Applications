@@ -1,4 +1,4 @@
-# FAST-LLAMAs
+# GraphAttack Applications
 
 This repository contains 3 main directories:
 1. **applications**: C++ benchmarks used to evaluate FAST-LLAMAs
